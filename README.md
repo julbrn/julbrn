@@ -1,6 +1,6 @@
-### 🛠 &nbsp; My Tech Stack
-
-
+### 😶‍🌫️ &nbsp; Hi there!
+&nbsp;
+&nbsp;
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="50" height="50">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="50" height="50">&nbsp;

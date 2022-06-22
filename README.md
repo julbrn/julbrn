@@ -12,5 +12,5 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="50" height="50">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="50" height="50">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="50" height="50">&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg)" width="50" height="50">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" width="50" height="50">&nbsp;
 

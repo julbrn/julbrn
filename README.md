@@ -1,5 +1,6 @@
 ## <p align="center"> Oh hi there! :) <br> <br> My name's Yulia and I'm an aspiring web developer. </p> 
 <div align="center"> <img align="center" src="./profilepic.png" width="50%"/> </div>
+<div align="center"> <img align="center" src="https://www.slazzer.com/downloads/6fb5e624-1cd3-11ed-a4c3-42010a80000a/programmer_v_02_prev_ui.png" width="50%"/> </div>
 
 ## Here's my tech stack:
 <div align="center">

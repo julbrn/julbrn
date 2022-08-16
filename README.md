@@ -14,7 +14,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" width="50" height="50">&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" width="50" height="50">&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" width="50" height="50">&nbsp;&nbsp;&nbsp;
-<img src="https://cdn-icons-png.flaticon.com/512/7083/7083971.png" width="50" height="50">&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="50" height="50">&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="50" height="50">&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" width="50" height="50">&nbsp;&nbsp;&nbsp;

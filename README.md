@@ -40,3 +40,9 @@
 <a href="https://codepen.io/julbrn" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/7083/7083971.png" width="50" height="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.codewars.com/users/julbrn"><img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/codewars-512.png" width="50" height="50"></a>&nbsp;&nbsp;&nbsp;
 </div>
+<br>
+<div align="right">
+
+![](https://komarev.com/ghpvc/?username=julbrn&color=grey&style=flat)
+
+</div>

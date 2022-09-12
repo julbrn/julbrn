@@ -1,7 +1,8 @@
 <img align="right" width="50%" height="55%" src="./profilepic.png" width="30%" alt="Computer pic"/>
 
-## Oh hi there! :) My name's Yulia and <br><br>  I'm an aspiring web developer.<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2100&pause=200&color=D4F7E5&multiline=true&width=340&height=220&lines=Oh+hi+there!+;My+name's+Yulia.;I'm+an+aspiring+;Web+Developer!)](https://git.io/typing-svg)
 
+<br>
 
 <br><br><br>
 

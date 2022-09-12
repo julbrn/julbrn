@@ -32,7 +32,9 @@
 
 </div>
 
-<br>
+## Music to my ears:
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=julbrn&width=500)
+
 <div align="right">
 
 ## How to contact and where to find me:

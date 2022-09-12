@@ -50,8 +50,11 @@ check my codepens:
 compete with me:
 <a href="https://www.codewars.com/users/julbrn"><img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/codewars-512.png" width="50" height="50"></a>&nbsp;&nbsp;&nbsp;
 </div>
-<br>
+
+##
+
 <div align="right">
+<br>
 
 ![](https://komarev.com/ghpvc/?username=julbrn&color=grey&style=flat)
 

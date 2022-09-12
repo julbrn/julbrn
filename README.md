@@ -8,7 +8,7 @@
 
 ## Here's my tech stack:
 
-<div align="center">
+<div align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="50" height="50">&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="50" height="50">&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50">&nbsp;&nbsp;&nbsp;

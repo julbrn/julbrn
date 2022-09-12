@@ -3,12 +3,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2500&pause=650&color=D4F7E5&width=610&height=70&lines=Oh+hi+there!+;My+name's+Yulia.;I'm+an+aspiring+Web+Developer!+;Have+a+nice+day!)](https://git.io/typing-svg)
 
 </div>
-<div align="right">
-<img align="right" width="43%" height="43%" src="./profilepic.png" alt="Computer pic"/>
+
+<div align="center">
+<img align="right" width="60%" height="60%" src="./profilepic.png" alt="Computer pic"/>
 </div>
+<br><br><br>
+<div align="left">
 
 ## Here's my tech stack:
-<div align="left">
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="50" height="50">&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="50" height="50">&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50">&nbsp;&nbsp;&nbsp;
@@ -24,8 +27,10 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" width="50" height="50">&nbsp;&nbsp;&nbsp;
 </div>
 
-## And that's me on Codewars:
+<br><br><br><br><br><br><br><br>
 <div align="left">
+
+## And that's me on Codewars:
 
 ![Codewars](https://github.r2v.ch/codewars?user=julbrn&stroke=%23e9edc9)
 

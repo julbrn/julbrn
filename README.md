@@ -1,10 +1,10 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2500&pause=650&color=D4F7E5&width=600&height=70&lines=Oh+hi+there!+;My+name's+Yulia.;I'm+an+aspiring+Web+Developer!+;Have+a+nice+day!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2500&pause=650&color=D4F7E5&width=610&height=70&lines=Oh+hi+there!+;My+name's+Yulia.;I'm+an+aspiring+Web+Developer!+;Have+a+nice+day!)](https://git.io/typing-svg)
 
 </div>
 <div align="right">
-<img align="right" width="50%" height="50%" src="./profilepic.png" alt="Computer pic"/>
+<img align="right" width="45%" height="45%" src="./profilepic.png" alt="Computer pic"/>
 </div>
 
 ## Here's my tech stack:

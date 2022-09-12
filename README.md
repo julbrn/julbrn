@@ -4,7 +4,7 @@
 
 </div>
 <div align="right">
-<img align="right" width="45%" height="45%" src="./profilepic.png" alt="Computer pic"/>
+<img align="right" width="43%" height="43%" src="./profilepic.png" alt="Computer pic"/>
 </div>
 
 ## Here's my tech stack:

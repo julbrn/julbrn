@@ -1,13 +1,13 @@
-<img align="right" width="50%" height="55%" src="./profilepic.png" width="30%" alt="Computer pic"/>
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=1900&pause=420&color=D4F7E5&multiline=true&width=340&height=220&lines=Oh+hi+there!+;My+name's+Yulia.;I'm+an+aspiring+;Web+Developer!+;Have+a+nice+day!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2500&pause=650&color=D4F7E5&width=600&height=70&lines=Oh+hi+there!+;My+name's+Yulia.;I'm+an+aspiring+Web+Developer!+;Have+a+nice+day!)](https://git.io/typing-svg)
 
-<br>
-
-<br><br><br>
+</div>
+<div align="right">
+<img align="right" width="50%" height="50%" src="./profilepic.png" alt="Computer pic"/>
+</div>
 
 ## Here's my tech stack:
-
 <div align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="50" height="50">&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="50" height="50">&nbsp;&nbsp;&nbsp;
@@ -24,10 +24,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" width="50" height="50">&nbsp;&nbsp;&nbsp;
 </div>
 
-<br><br><br>
-
 ## And that's me on Codewars:
-
 <div align="left">
 
 ![Codewars](https://github.r2v.ch/codewars?user=julbrn&stroke=%23e9edc9)

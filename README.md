@@ -22,9 +22,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" height="50">&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="50" height="50">&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="50" height="50">&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="50" height="50">&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" width="50" height="50">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" width="50" height="50">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" width="50" height="50">&nbsp;&nbsp;&nbsp;
 </div>
 
 <br><br><br><br><br><br><br><br>

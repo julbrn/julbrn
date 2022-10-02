@@ -32,13 +32,12 @@
 
 ## And that's me on Codewars:
 
-![Codewars](https://github.r2v.ch/codewars?user=julbrn&stroke=%23e9edc9)
+[![Codewars Badge](https://www.codewars.com/users/julbrn/badges/large)](https://www.codewars.com/users/julbrn)
 </div>
 
 ## Music to my ears:
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=julbrn&width=500)
 
-<br>
 <div align="right">
 
 ## :grey_question: How to...

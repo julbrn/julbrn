@@ -42,13 +42,8 @@
 <div align="right">
 
 ## :grey_question: How to...
-reach me: <br><br>
-<a href="https://t.me/julienneb" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="50" height="50"></a>&nbsp;&nbsp;&nbsp;&nbsp; 
-<a href="https://www.linkedin.com/in/julbrn/" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="50" height="50"></a>&nbsp;&nbsp;&nbsp;&nbsp; 
-<br><br><br>
-check my codepens: <br><br>
-<a href="https://codepen.io/julbrn" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/7083/7083971.png" width="50" height="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;<br><br><br>
-compete with me: <br><br>
+reach me:&nbsp; &nbsp; <a href="https://t.me/julienneb" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="50" height="50"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/julbrn/" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="50" height="50"></a>&nbsp;&nbsp;&nbsp;&nbsp; 
+check my codepens: &nbsp;&nbsp; <a href="https://codepen.io/julbrn" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/7083/7083971.png" width="50" height="50"></a>&nbsp;&nbsp;&nbsp;&nbsp; compete with me: &nbsp;&nbsp;
 <a href="https://www.codewars.com/users/julbrn"><img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/codewars-512.png" width="50" height="50"></a>&nbsp;&nbsp;&nbsp;
 </div>
 

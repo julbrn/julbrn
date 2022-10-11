@@ -39,9 +39,6 @@
 [![Codewars Badge](https://www.codewars.com/users/julbrn/badges/large)](https://www.codewars.com/users/julbrn)
 </div>
 
-## Music to my ears:
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=julbrn&width=500)
-
 <div align="right">
 
 ## :grey_question: How to...

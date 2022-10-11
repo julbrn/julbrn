@@ -30,7 +30,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" width="50" height="50">&nbsp;&nbsp;&nbsp;
 </div>
 
-<br><br><br><br><br><br>
+<br><br><br><br>
 
 <div align="left">
 

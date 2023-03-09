@@ -1,10 +1,4 @@
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=650&color=59E4A8&width=700&height=50&lines=Oh+hi+there!+;My+name's+Yulia.;I'm+an+aspiring+Frontend+Developer!+;Have+a+nice+day!)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
 <img align="right" width="50%" height="50%" src="./profilepic.png" alt="Computer pic"/>
 </div>
 <br><br><br>

@@ -9,12 +9,12 @@
 
 ## Fav tools
 <img src="https://img.shields.io/badge/Webpack-4a4e69?style=for-the-badge&logo=Webpack&logoColor=8BCFF3"/> <img src="https://img.shields.io/badge/Figma-424661?style=for-the-badge&logo=Figma&logoColor=F76E60"/> <img src="https://img.shields.io/badge/WebStorm-3a405a?style=for-the-badge&logo=WebStorm&logoColor=00C6D1"/> <img src="https://img.shields.io/badge/VSCode-424661?style=for-the-badge&logo=Visual Studio Code&logoColor=2B7BB4"/> <img src="https://img.shields.io/badge/Slack-4a4e69?style=for-the-badge&logo=Slack&logoColor=D91E57"/>
-<br><br>
-[![Codewars Badge](https://www.codewars.com/users/julbrn/badges/small)](https://www.codewars.com/users/julbrn)
+
 
 ## Socials
 <a href="https://t.me/julienneb" target="blank"><img src="https://img.shields.io/badge/Telegram-29A4E4?style=flat&logo=Telegram&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/julbrn/" target="blank"><img src="https://img.shields.io/badge/Linkedin-0963BC?style=flat&logo=Linkedin&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://codepen.io/julbrn" target="blank"><img src="https://img.shields.io/badge/Codepen-white?style=flat&logo=Codepen&logoColor=202020"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.codewars.com/users/julbrn"><img src="https://img.shields.io/badge/Codewars-white?style=flat&logo=Codewars&logoColor=202020"/></a>
-
+<br><br>
+[![Codewars Badge](https://www.codewars.com/users/julbrn/badges/small)](https://www.codewars.com/users/julbrn)
 <br><br>
 ![](https://komarev.com/ghpvc/?username=julbrn&color=3a405a&style=flat-square)
 

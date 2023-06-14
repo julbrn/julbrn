@@ -1,7 +1,7 @@
 ## About me
 📚 I'm a Yandex.Practicum graduate and passionate learner <br>
-🔭 Currently learning Typescript, Redux and Tailwind <br>
-👽 Also interested in UX design and fullstack development <br>
+🔭 Currently learning Typescript and Redux <br>
+👽 Also interested in UX design <br>
 🌍 Fluent in English and Russian <br>
  
 ## Tech stack

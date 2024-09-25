@@ -1,5 +1,5 @@
 ## About me
-💻 Worked as an HTML/CSS developer and frontend developer <br>
+💻 Frontend developer <br>
 🔭 Currently learning Redux and Typescript <br>
 👽 Also interested in UX design <br>
 🌍 Fluent in English and Russian, improving my German skills <br>

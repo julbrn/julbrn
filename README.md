@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/styledcomponents-424661?style=for-the-badge&logo=styledcomponents&logoColor=black"/> 
 
 ## Fav tools
-<img src="https://img.shields.io/badge/Webpack-4a4e69?style=for-the-badge&logo=Webpack&logoColor=8BCFF3"/> <img src="https://img.shields.io/badge/Swagger-4a4e69?style=for-the-badge&logo=Swagger&logoColor=8BCFF3"/>   <img src="https://img.shields.io/badge/Figma-424661?style=for-the-badge&logo=Figma&logoColor=F76E60"/> <img src="https://img.shields.io/badge/WebStorm-3a405a?style=for-the-badge&logo=WebStorm&logoColor=00C6D1"/> <img src="https://img.shields.io/badge/VSCode-424661?style=for-the-badge&logo=Visual Studio Code&logoColor=2B7BB4"/> <img src="https://img.shields.io/badge/Slack-4a4e69?style=for-the-badge&logo=Slack&logoColor=D91E57"/>
+<img src="https://img.shields.io/badge/Webpack-4a4e69?style=for-the-badge&logo=Webpack&logoColor=8BCFF3"/>  <img src="https://img.shields.io/badge/Postman-4a4e69?style=for-the-badge&logo=Postman&logoColor=8BCFF3"/> <img src="https://img.shields.io/badge/Swagger-4a4e69?style=for-the-badge&logo=Swagger&logoColor=8BCFF3"/>   <img src="https://img.shields.io/badge/Figma-424661?style=for-the-badge&logo=Figma&logoColor=F76E60"/> <img src="https://img.shields.io/badge/WebStorm-3a405a?style=for-the-badge&logo=WebStorm&logoColor=00C6D1"/> <img src="https://img.shields.io/badge/VSCode-424661?style=for-the-badge&logo=Visual Studio Code&logoColor=2B7BB4"/> <img src="https://img.shields.io/badge/Slack-4a4e69?style=for-the-badge&logo=Slack&logoColor=D91E57"/>
 
 
 ## Socials

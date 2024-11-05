@@ -13,7 +13,7 @@
 
 
 ## Socials
-<a href="https://t.me/julienneb" target="blank"><img src="https://img.shields.io/badge/Telegram-29A4E4?style=flat&logo=Telegram&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/julbrn/" target="blank"><img src="https://img.shields.io/badge/Linkedin-0963BC?style=flat&logo=Linkedin&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://codepen.io/julbrn" target="blank"><img src="https://img.shields.io/badge/Codepen-4a4e69?style=flat&logo=Codepen&logoColor=202020"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.codewars.com/users/julbrn"><img src="https://img.shields.io/badge/Codewars-4a4e69?style=flat&logo=Codewars&logoColor=202020"/></a>
+<a href="https://t.me/julienneb" target="blank"><img src="https://img.shields.io/badge/Telegram-29A4E4?style=flat&logo=Telegram&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/julbrn/" target="blank"><img src="https://img.shields.io/badge/Linkedin-0963BC?style=flat&logo=Linkedin&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://codepen.io/julbrn" target="blank"><img src="https://img.shields.io/badge/Codepen-4a4e69?style=flat&logo=Codepen&logoColor=202020"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.codewars.com/users/julbrn"><img src="https://img.shields.io/badge/Codewars-4a4e69?style=flat&logo=Codewars&logoColor=202020"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://cssbattle.dev/player/julbrn"><img src="https://img.shields.io/badge/CSSBattle-4a4e69?style=flat&logo=css3&logoColor=202020"/></a>
 <br><br>
 [![Codewars Badge](https://www.codewars.com/users/julbrn/badges/small)](https://www.codewars.com/users/julbrn)
 <br><br>
